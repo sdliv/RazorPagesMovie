@@ -28,3 +28,7 @@
 /Users/sean/Desktop/netcore/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.dll
 /Users/sean/Desktop/netcore/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.pdb
 /Users/sean/Desktop/netcore/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.csproj.CopyComplete
+/Users/sean/Desktop/netcore/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Create.g.cshtml.cs
+/Users/sean/Desktop/netcore/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Delete.g.cshtml.cs
+/Users/sean/Desktop/netcore/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Details.g.cshtml.cs
+/Users/sean/Desktop/netcore/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Edit.g.cshtml.cs
